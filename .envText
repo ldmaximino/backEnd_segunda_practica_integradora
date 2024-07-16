@@ -1,0 +1,8 @@
+PORT=5002
+SECRET_KEY=
+URI_MONGODB=
+PERSISTENCE="mongodb"
+CLIENT_ID = 
+CLIENT_SECRET = 
+CALLBACKURL = 'http://localhost:5002/users/login-github'
+TIMETOKEN = 2
